@@ -1,0 +1,11 @@
+{
+	"name": "ls_azurekevalut_dev",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://project3434-dev-kv.vault.azure.net/"
+		}
+	}
+}
